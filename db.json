@@ -1,0 +1,25 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "name": "Peci",
+      "price": 20000,
+      "stock": 30,
+      "photo": "peci.png"
+    },
+    {
+      "id": 2,
+      "name": "Sarung",
+      "price": 50000,
+      "stock": 10,
+      "photo": "sarung.png"
+    },
+    {
+      "id": 3,
+      "name": "Koko",
+      "price": 100000,
+      "stock": 20,
+      "photo": "koko.png"
+    }
+  ]
+}
